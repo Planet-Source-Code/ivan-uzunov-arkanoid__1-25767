@@ -1,0 +1,27 @@
+ Author    : Ivan Uzunov
+ E- mail   : kicheto@goatrance.com
+ Made with : Visual Basic 6.00
+ Date      : 07-30-2001
+
+FROM THE AUTHOR:
+	
+	I hope you gonna enjoy this game. Please send me any sujestions about this game( i'll be very thankful for this)
+
+ARKANOID:
+	
+	The primary goal of the game is to kill all the enemies. Don't let the ball fall down- you gonna lose one live. The bonus give you a extra ability. If you don't like the levels or you are tired of them use the LEVEL EDITOR to create new levels.
+
+CONTROLS:
+	
+	SPACE BAR   : Shot the ball 
+	N           : New Game
+	P           : Pause
+	Left Arrow  : Left
+	Right Arrow : Right
+	ESC         : Exit 
+
+LEVEL EDITOR:
+	
+	To create new levels use the LEVEL EDITOR. To create new enemy just click on the game area. To set the color or bonus of the enemy click the right button of the mouse. If you won to change the position of the enemy just drag it to the new position. If you won to all next enemies to be on a definite color first click on the color you won in the upper right corner and then start to create a new enemies.
+	If you won to edit a existing level select level number in the text box and press Open. To save the level select level number in the text box and press Save. To clear the game area press Clear.
+
